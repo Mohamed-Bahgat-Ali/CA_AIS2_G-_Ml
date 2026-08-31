@@ -1,0 +1,6 @@
+Column Name,Survived,Pclass,Sex,Age,SibSp,Parch,Fare,Embarked
+Datatype,int64,int64,str,float64,int64,int64,float64,str
+Unique Count,2,3,2,88,7,7,248,3
+Null Count,0,0,0,177,0,0,0,2
+Null Percentage,0.0,0.0,0.0,19.87,0.0,0.0,0.0,0.22
+Sample Values,"[0, 1]","[3, 1, 2]","['male', 'female']","[22.0, 38.0, 26.0]","[1, 0, 3]","[0, 1, 2]","[7.25, 71.2833, 7.925]","['S', 'C', 'Q']"
